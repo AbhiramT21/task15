@@ -32,7 +32,7 @@ This repository provides the necessary files and instructions for setting up **D
    ```
 
 5. **Access the DVWA Web Interface**
-   
+   - URL: `http://dvwa`
    - **Default Credentials**:  
      - Username: `admin`  
      - Password: `password`
