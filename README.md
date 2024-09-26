@@ -28,7 +28,7 @@ This repository provides the necessary files and instructions for setting up **D
 
 4. **Start DVWA**
    ```
-   /pentestlab.sh start dvwa
+   ./pentestlab.sh start dvwa
    ```
 
 5. **Access the DVWA Web Interface**
